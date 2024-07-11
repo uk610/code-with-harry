@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
-    background-color: antiquewhite;
+    background-color: black;
 }
 
 *{
@@ -69,7 +69,7 @@ nav ul li{
     cursor: pointer;
 }
 
-#myProgressBar{
+#neeliLine{
     width: 80vw; 
     cursor: pointer;
 }
